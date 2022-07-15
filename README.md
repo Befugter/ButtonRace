@@ -6,4 +6,5 @@ This version was built upon another game available on the web which I tried in t
 Features are:
 
 Standard mode: 2 player game from 0 to 100, penalty -1 when wrong button was pressed, no limits in speed or rounds
+
 Kid mode: 2 player game from 1 to 10, no penalty
