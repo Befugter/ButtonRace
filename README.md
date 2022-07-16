@@ -10,11 +10,11 @@ I got inspired to extent the basic game with additional features. The game itsel
 Current features are:
 
 Standard mode: 
-*2 player game from 0 to 100
-*penalty of -1 when wrong button was pressed
-*no limits in speed or rounds
-*true random numbers
+* 2 player game from 0 to 100
+* penalty of -1 when wrong button was pressed
+* no limits in speed or rounds
+* true random numbers
 
 Kid mode: 
-*2 player game from 1 to 10
-*no penalty
+* 2 player game from 1 to 10
+* no penalty
